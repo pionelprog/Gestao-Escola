@@ -1,0 +1,129 @@
+C:\Afonso PSI C#\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+C:\Afonso PSI C#\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+C:\Afonso PSI C#\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+C:\Afonso PSI C#\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+C:\Afonso PSI C#\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+C:\Afonso PSI C#\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+C:\Afonso PSI C#\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+C:\Afonso PSI C#\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+C:\Afonso PSI C#\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+C:\Afonso PSI C#\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+C:\Afonso PSI C#\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+C:\Afonso PSI C#\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001-20241025T130029Z-001\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001-20241025T130029Z-001\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001-20241025T130029Z-001\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001-20241025T130029Z-001\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001-20241025T130029Z-001\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001-20241025T130029Z-001\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001-20241025T130029Z-001\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001-20241025T130029Z-001\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+C:\Users\b201\Downloads\GestEscola-20241022T104109Z-001-20241023T143435Z-001-20241025T130029Z-001\GestEscola-20241022T104109Z-001-20241023T143435Z-001\GestEscola-20241022T104109Z-001\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+C:\Users\b201\Downloads\GestEscola\GestEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+C:\Users\Aluno\Downloads\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+C:\Afonso PSI C#\GestEscola\GestEscola-20241025T134248Z-001\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+D:\PSI11Q\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+D:\PSI11Q\Trabalhos antigos\Nova pasta (2)\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe.config
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.exe
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\bin\Debug\GestEscola.pdb
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.AssemblyReference.cache
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Form1.resources
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmalunos.resources
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.frmcursos.resources
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.Properties.Resources.resources
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.GenerateResource.cache
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.csproj.CoreCompileInputs.cache
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.exe
+D:\PSI11Q\Trabalhos antigos\GestaoEscolaWF\GestaoEscolaWF\GestaoEscola\GestEscola\GestEscola\GestEscola\obj\Debug\GestEscola.pdb
